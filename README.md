@@ -5,7 +5,8 @@
 I'm a Student from SMK Wikrama Bogor
 
 - 🌱 I’m currently learning Lumen and React
-- 📫 How to reach me: marsyaanandadewi064@gmail.com
+- 📫 How to reach me: [marsyaanandadewi064@gmail.com](mailto:marsyaanandadewi064@gmail.com)
+
 
 
 ## Skills
@@ -21,7 +22,6 @@ I'm a Student from SMK Wikrama Bogor
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syamarsyaa_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marsyaanandadewi064@gmail.com)
 
-
-
+---
 
 *Thank you for visiting my profile! Feel free to connect with me or check out my work.*
