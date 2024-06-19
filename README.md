@@ -1,4 +1,4 @@
-                                                                                               *Hi!👋, I'm Marsya*
+# Hi!👋, I'm Marsya
 
 ## About Me
 
