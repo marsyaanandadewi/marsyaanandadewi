@@ -1,11 +1,11 @@
-# Hi!👋, I'm Marsya
+                                                                                               *Hi!👋, I'm Marsya*
 
 ## About Me
 
 I'm a Student from SMK Wikrama Bogor
 
 - 🌱 I’m currently learning Lumen and React
-- 📫 How to reach me: [Your Contact Information]
+- 📫 How to reach me: marsyaanandadewi064@gmail
 
 
 ## Skills
